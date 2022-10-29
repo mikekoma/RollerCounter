@@ -10,18 +10,18 @@
 
 # Feature
 
--GROVEコネクタに接続したスイッチ入力のカウント
--5分間スイッチ入力無しでオートパワーオフ
--オートパワーオフ1分前にブザー
--スイッチは入力後3秒間は入力無効
+ - GROVEコネクタに接続したスイッチ入力のカウント
+ - 5分間スイッチ入力無しでオートパワーオフ
+ - オートパワーオフ1分前にブザー
+ - スイッチは入力後3秒間は入力無効
 
 ButtonBを押すと、GROVEコネクタのスイッチと同じ動作をする。
 
 # Software
 
--Arduino 1.8.13
--LovyanGFX 0.4.18
--M5StickCPlus 0.0.8
+ - Arduino 1.8.13
+ - LovyanGFX 0.4.18
+ - M5StickCPlus 0.0.8
 
 Tool -> Board -> M5Stick-C-Plus
 
