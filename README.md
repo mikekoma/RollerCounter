@@ -1,27 +1,28 @@
-# Title
-
-RollerCounter
+# RollerCounter
 
 ![使用画像](image/work.jpg)
 
 # Overview
 
-スイッチ入力のカウンター
+スイッチのカウンター  
+アブローラーで運動する時用に作成  
 
 
 # Description
 
-スイッチ入力のカウント
-5分間スイッチ入力無しでオートパワーオフ
-スイッチは入力後3秒間は入力無効
+-スイッチ入力のカウント
+-5分間スイッチ入力無しでオートパワーオフ
+-スイッチは入力後3秒間は入力無効
 
 
 # Hardware
 
-[M5StickC Plus](https://docs.m5stack.com/en/core/m5stickc_plus)
-[コネクタ付コード　４Ｐ　黒赤白黄　Ｇｒｏｖｅ用ケーブル](https://akizukidenshi.com/catalog/g/gC-16938/) 秋月電子 C-16938 GROVEケーブル
-[オジデン OFL-S-H](https://ojiden.co.jp/item/detail.html?itemId=I20130821003) フットスイッチ
-ネオジム磁石
+材料
+-[M5StickC Plus](https://docs.m5stack.com/en/core/m5stickc_plus)
+-[コネクタ付コード　４Ｐ　黒赤白黄　Ｇｒｏｖｅ用ケーブル](https://akizukidenshi.com/catalog/g/gC-16938/) 秋月電子 C-16938 GROVEケーブル
+-熱収縮チューブ
+-[オジデン OFL-S-H](https://ojiden.co.jp/item/detail.html?itemId=I20130821003) フットスイッチ
+-ネオジム磁石
 
 GROVEケーブルを半分に切って、1ピン(GND)と4ピン(SCL)をフットスイッチに配線する。
 
