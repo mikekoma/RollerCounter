@@ -17,6 +17,14 @@
 
 ButtonBを押すと、GROVEコネクタのスイッチと同じ動作をする。
 
+# Software
+
+-Arduino 1.8.13
+-LovyanGFX 0.4.18
+-M5StickCPlus 0.0.8
+
+Tool -> Board -> M5Stick-C-Plus
+
 # Hardware
 
 材料
